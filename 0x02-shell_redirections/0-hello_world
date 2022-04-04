@@ -1,7 +1,2 @@
 #!/bin/bash
 echo "Hello, World"
-[master 4da1244] task 0
- 1 file changed, 2 insertions(+)
- create mode 100644 0x02-shell_redirections/0-hello_world
-#!/bin/bash
-echo "Hello, World"
